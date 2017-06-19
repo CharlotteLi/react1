@@ -1,0 +1,25 @@
+.menu-nav{
+    width: 100px;
+    margin:0 auto;
+    font-size: 18px;
+    color: #ffffff;
+}
+.menu-nav i{
+    margin-right: 10px;
+    font-size: 40px;
+    color: #ffffff;
+}
+.menu-item i{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.menu-item span{
+    color: #ffffff;
+    font-size: 16px;
+}
+.menu-text i{
+    margin-right: 10px;
+}
+.menu-text span {
+    color: #FFFFFF;
+}
